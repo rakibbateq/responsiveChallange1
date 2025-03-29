@@ -96,7 +96,7 @@ p{
 }
 /* 6th part  */
 .image-container {
-    position: relative; /* Makes sure text is positioned relative to this container */
+    /* position: relative; */
     display: inline-block; /* Keeps size as per content */
     width: 100%;
     padding: 60px;
